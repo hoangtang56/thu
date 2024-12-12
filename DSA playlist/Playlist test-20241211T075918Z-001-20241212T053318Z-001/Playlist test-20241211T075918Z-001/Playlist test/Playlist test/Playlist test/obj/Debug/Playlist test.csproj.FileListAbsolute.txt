@@ -1,0 +1,130 @@
+C:\Users\Admin\source\repos\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+C:\Users\Admin\source\repos\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+C:\Users\Admin\source\repos\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+C:\Users\Admin\source\repos\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist_test.Form1.resources
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+C:\Users\Admin\source\repos\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form1.resources
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\bin\Debug\taglib-sharp.dll
+D:\OneDrive\Documents\Downloads\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form1.resources
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+C:\Users\quocb\Documents\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\taglib-sharp.dll
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form1.resources
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+D:\DSA\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+C:\Users\Admin\Downloads\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form.resources
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\taglib-sharp.dll
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form.resources
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+D:\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form.resources
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+D:\OneDrive\Documents\Downloads\aasa-main\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe.config
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.exe
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Playlist test.pdb
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.ResolveComReference.cache
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Form.resources
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist_test.Properties.Resources.resources
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist.DF3D5058.Up2Date
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.exe
+D:\OneDrive\Documents\Downloads\DSA playlist\Playlist test-20241211T075918Z-001-20241212T053318Z-001\Playlist test-20241211T075918Z-001\Playlist test\Playlist test\Playlist test\obj\Debug\Playlist test.pdb
